@@ -10,6 +10,10 @@
       - Conducted SQL injection, XSS, CSRF
     - [Networking Project](https://eecs388.org/projects/networking.html)
       - Conducted attack against simulated environments by exploiting vulnerabilities in protocols
+    - [Application Security](https://eecs388.org/projects/appsec.html)
+      - Conducted control hijacking against DEP and ASLR; performed reverse-engineering with Ghidra
+    - [Forensics Project](https://eecs388.org/projects/forensics.html)
+      - Conducted Forensics investigation with Autopsy
   - [EECS 485: Web Development](https://eecs485.org/)
     - Mock Instagram
       - [Templated Static Site Generator](https://eecs485staff.github.io/p1-insta485-static/)
@@ -19,6 +23,14 @@
       - [Client-side Dynamic Pages](https://eecs485staff.github.io/p3-insta485-clientside/)
         - Construct REST API and use SQL databse to store user's information
         - Use React.js to create client-side dynamic pages
+    - [MapReduce Framework](https://eecs485staff.github.io/p4-mapreduce/)
+      - Implement a MapReduce framework in Python inspired by Google’s original MapReduce paper
+      - Use thread and socket to mimic the communication of manager and worker in the distributed system with parallelization
+    - [Search Engine](https://eecs485staff.github.io/p5-search-engine/)
+      - Implement search engine using Python, Jinja 2 template, and SQL database
+      - Implement tf-idf inverted index, PageRank algorithm and HITS algorithm to analyze retrieved link information
+      - Apply Hadoop MapReduce to increase scalability of search engine website
+
 - 💞️ I’m looking to collaborate on backend/infrustructure software design
 - 📫 How to reach me
   - Email: [Yi-Wen Tseng](mailto:yiwentseng.a@gmail.com)
